@@ -1,0 +1,2 @@
+class MongoConnection:
+    pass

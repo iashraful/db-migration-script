@@ -1,0 +1,2 @@
+class PostgreSQLConnection:
+    pass
